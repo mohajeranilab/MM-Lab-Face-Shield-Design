@@ -1,2 +1,2 @@
-# Face-Mask-Shield-design-
+# Face-Mask-Shield-design
 Design for 3D printing
