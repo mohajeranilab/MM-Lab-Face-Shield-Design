@@ -1,4 +1,4 @@
-# Face Mask & Shield design
+# Uof L Face Shield design for Rapid 3D printing
 
 Oue goal here in this project is to make a low cost, good quality, reusable, and fast production of face mask and shield that can be quickly deployed.
 This face shield is currently in use in London Health Sciences Centre in the Emergency Department.
