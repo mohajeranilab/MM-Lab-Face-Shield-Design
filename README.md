@@ -1,8 +1,7 @@
 # Uof L Face Shield design for Rapid 3D printing
 
-Oue goal here in this project is to make a low cost, good quality, reusable, and fast production of face mask and shield that can be quickly deployed.
-This face shield is currently in use in London Health Sciences Centre in the Emergency Department.
-This face shield is made by Dr. Hardeep Ryair
+Oue goal here in this project is to make a low cost, good quality, reusable, and rapid production of face shield that can be quickly deployed.
+This face shield is made by Dr. Hardeep Ryair.
 
 
 Decontamination (Information is taken from https://github.com/gliax/faceshield)
