@@ -4,9 +4,6 @@ Oue goal here in this project is to make a low cost, good quality, reusable, and
 This face shield is currently in use in London Health Sciences Centre in the Emergency Department.
 This face shield is made by Dr. Hardeep Ryair
 
-Bill of Materials
-Printed parts
-
 
 Decontamination (Information is taken from https://github.com/gliax/faceshield)
 •	Disassemble head piece from strap and mylar sheet
