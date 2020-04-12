@@ -1,5 +1,5 @@
 # Uof L Face Shield design for Rapid 3D Printing
-
+![Shield](/Capture5.PNG)
 Oue goal here in this project is to make a low cost, good quality, reusable, and rapid production of face shield that can be quickly deployed.
 This face shield is made by Dr. Hardeep Ryait.
 
